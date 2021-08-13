@@ -1,0 +1,31 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  max-width: 1000px;
+  margin: auto;
+  margin-top: 2rem;
+  color: #017c9e;
+}
+
+body {
+  background-image: url("https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=750&q=80");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+.genreBtn {
+  cursor: pointer;
+  border-radius: 0.5rem;
+  padding: 0.5rem 1rem;
+  border: 2.3px solid orange;
+  margin: 0.5rem 1rem;
+  color: #017c9e;
+  font-weight: bold;
+  background-color: transparent;
+}
+
+.list-of-series {
+  display: inline;
+  text-align: left;
+}
